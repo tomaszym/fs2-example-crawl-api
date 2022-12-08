@@ -1,2 +1,8 @@
 *.class
 *.log
+
+out/
+posts/
+.idea/
+
+*.iml
